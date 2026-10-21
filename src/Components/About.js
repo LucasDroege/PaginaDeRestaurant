@@ -13,22 +13,20 @@ const About = () => {
         <img src={AboutBackgroundImage} alt="" />
       </div>
       <div className="about-section-text-container">
-        <p className="primary-subheading">About</p>
+        <p className="primary-subheading">Acerca de nosotros:</p>
         <h1 className="primary-heading">
-          Food Is An Important Part Of A Balanced Diet
+          La comida es una parte importante de una dieta equilibrada.
         </h1>
         <p className="primary-text">
-          Lorem ipsum dolor sit amet consectetur. Non tincidunt magna non et
-          elit. Dolor turpis molestie dui magnis facilisis at fringilla quam.
+          Esto es relleno
         </p>
         <p className="primary-text">
-          Non tincidunt magna non et elit. Dolor turpis molestie dui magnis
-          facilisis at fringilla quam.
+          MAs relleno
         </p>
         <div className="about-buttons-container">
-          <button className="secondary-button">Learn More</button>
+          <button className="secondary-button">Mas informacion...</button>
           <button className="watch-video-button">
-            <BsFillPlayCircleFill /> Watch Video
+            <BsFillPlayCircleFill /> Mirar el video
           </button>
         </div>
       </div>
